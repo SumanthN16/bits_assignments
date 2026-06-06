@@ -12,7 +12,6 @@ __pycache__/
 *$py.class
 
 # Large Datasets and ZIP Packages
-*.csv
 *.zip
 *.png
 
